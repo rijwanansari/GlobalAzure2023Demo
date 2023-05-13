@@ -5,7 +5,9 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDemoAzureFn", "MyDemoAzureFn\MyDemoAzureFn.csproj", "{A63BED2E-FD23-4577-840C-BD00A07C2390}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDemoWebApp", "MyDemoWebApp\MyDemoWebApp.csproj", "{DFDEC116-3028-455A-8B30-5EB9AFB25A63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDemoWebApp", "MyDemoWebApp\MyDemoWebApp.csproj", "{DFDEC116-3028-455A-8B30-5EB9AFB25A63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalAzure2023WebApi", "GlobalAzure2023WebApi\GlobalAzure2023WebApi.csproj", "{DD84CC6B-A948-4CAE-A344-FE87D11144A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DFDEC116-3028-455A-8B30-5EB9AFB25A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFDEC116-3028-455A-8B30-5EB9AFB25A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFDEC116-3028-455A-8B30-5EB9AFB25A63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD84CC6B-A948-4CAE-A344-FE87D11144A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD84CC6B-A948-4CAE-A344-FE87D11144A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD84CC6B-A948-4CAE-A344-FE87D11144A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD84CC6B-A948-4CAE-A344-FE87D11144A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
